@@ -1,3 +1,4 @@
+
 $.extend($.easing,
 {
     def: 'easeOutQuad',
@@ -91,3 +92,4 @@ $(document).ready(function (){
 	});
 
 });
+
